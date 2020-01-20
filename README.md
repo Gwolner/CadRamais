@@ -10,7 +10,7 @@ Um novo sistema de ramais está sendo desenvolvido para tornar-se flexível às 
 
 ## Modelo Relacional (MR)
 
-<img src="modelo_relacional/ola_mundo_telecom.png" width="975" height="766" align="center">
+<img src="modelo_relacional/cad_ramais.png" width="963" height="549" align="center">
 
 ## Script MySQL
 
