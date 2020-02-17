@@ -19,6 +19,12 @@ Criação do BD.
 CREATE DATABASE cad_ramais;
 ```
 
+Declaração de uso do BD a ser manipulado.
+```mysql
+USE cad_ramais;
+/*Ou clique duas vezes sobre o nome do BD.*/
+```
+
 Criação das tabelas com seus respectivos campos.
 ```mysql
 CREATE TABLE bloco(
