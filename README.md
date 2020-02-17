@@ -15,13 +15,12 @@ Um novo sistema de ramais está sendo desenvolvido para tornar-se flexível às 
 ## Script MySQL
 
 Criação do BD.
-```
+```mysql
 CREATE DATABASE cad_ramais;
 ```
-<br/>
 
 Criação das tabelas com seus respectivos campos.
-```
+```mysql
 CREATE TABLE bloco(
 id_bloco INT,
 desc_bloco VARCHAR(45) NOT NULL,
@@ -91,10 +90,9 @@ FOREIGN KEY (id_sub_setor) REFERENCES sub_setor (id_sub_setor),
 FOREIGN KEY (id_tipo_ramal) REFERENCES tipo_ramal (id_tipo_ramal)
 );
 ```
-<br/>
 
 Exclusão das tabelas.
-```
+```mysql
 DROP TABLE ramal;
 DROP TABLE tipo_ramal;
 DROP TABLE email;
@@ -105,9 +103,8 @@ DROP TABLE bloco_x_andar;
 DROP TABLE andar;
 DROP TABLE bloco;
 ```
-<br/>
 
 Exclusão do BD
-```
+```mysql
 DROP DATABASE cad_ramais;
 ```
