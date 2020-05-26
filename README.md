@@ -1,6 +1,6 @@
 # Cad Ramais <img src="logo/mysql.png" width="80" height="40" align="right">
 
-Participação na elaboração do MR (Modelo Relacional) e BD MySQL do Cad Ramais, novo sistema de controle de ramais, desenvolvido no Scriptcase por Victor Monte, supervisor de estágio da Equipe de Desenvolvimento no Depart. de Gestão de Tecnologia da Informação (DGTI) do IFPE campus Recife.
+> Participação na elaboração do MR (Modelo Relacional) e BD MySQL do Cad Ramais, novo sistema de controle de ramais, desenvolvido no Scriptcase por Victor Monte, supervisor de estágio da Equipe de Desenvolvimento no Depart. de Gestão de Tecnologia da Informação (DGTI) do IFPE campus Recife.
 
 ## Necessidade
 
